@@ -1,0 +1,133 @@
+body {
+    background-image: url('background.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    font-family: "Kode Mono", monospace;
+  }
+.cd{
+    text-align: center;
+}
+h1 {
+    color: rgb(226, 223, 7);
+}
+
+div {
+    color: aliceblue;
+}
+.contenedor {
+    background-color: black;
+    color: aliceblue;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: left; 
+    align-items: left; 
+    height: 300px; 
+    border-radius: 20px;
+}
+
+.contenedor img {
+    max-width: 100%; 
+    max-height: 100%; 
+    border-radius: 20px;
+    margin-right: 50px;
+}
+.contenedor p {
+    font-size: 20px;
+    flex: 1; 
+}
+.contenedor2 {
+    background-color: black;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: left; 
+    align-items: left; 
+    height: 300px; 
+    border-radius: 20px;
+}
+
+.contenedor2 img {
+    max-width: 100%; 
+    max-height: 100%; 
+    border-radius: 20px;
+    margin-right: 50px;
+}
+.contenedor2 p {
+    font-size: 20px;
+    flex: 1; 
+}
+.contenedor3 {
+    background-color: black;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: left; 
+    align-items: left; 
+    height: 300px; 
+    border-radius: 20px;
+}
+
+.contenedor3 img {
+    max-width: 100%; 
+    max-height: 100%; 
+    border-radius: 20px;
+    margin-right: 50px;
+}
+.contenedor3 p {
+    font-size: 20px;
+    flex: 1; 
+}
+.contenedor4 {
+    background-color: black;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: left; 
+    align-items: left; 
+    height: 300px; 
+    border-radius: 20px;
+}
+
+.contenedor4 img {
+    max-width: 100%; 
+    max-height: 100%; 
+    border-radius: 20px;
+    margin-right: 50px;
+}
+.contenedor4 p {
+    font-size: 20px;
+    flex: 1; 
+}
+.contenedor5 {
+    background-color: black;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: left; 
+    align-items: left; 
+    height: 300px; 
+    border-radius: 20px;
+}
+
+.contenedor5 img {
+    max-width: 100%; 
+    max-height: 100%; 
+    border-radius: 20px;
+    margin-right: 50px;
+}
+.contenedor5 p {
+    font-size: 20px;
+    flex: 1; 
+}
+
+.pie{
+    margin-left: 100px;
+    text-align: center;
+    width: 300px;
+    height: 30px;
+    background-color: black;
+}
+.pie a{ 
+    font-size: 25px;
+    color: rgb(220, 200, 25);
+}
+@media only screen and (max-width: 768px) {
+
+}

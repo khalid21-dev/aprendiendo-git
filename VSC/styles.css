@@ -1,0 +1,121 @@
+body {
+  background-image: url('background.jpg'); 
+  background-size: cover; 
+  background-repeat: no-repeat; 
+  background-attachment: fixed; 
+  font-family: "Kode Mono", monospace;
+  
+}
+
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+  margin: 0;
+  padding: 50px;
+}
+
+.icon2{
+  height: 50px;
+  width: 50px;
+}
+header {
+  background-color: black;
+  border-radius: 20px;
+  font-family: "Kode Mono", monospace;
+  color: #d5d504;
+  padding: 20px;
+  text-align: center;
+}
+
+nav ul {
+  padding: 0;
+  width: 600px;
+  height: 30px;
+  margin: 20px;
+  margin-left: 380px;
+  text-align: center;
+  border-radius: 20px;
+  background-color: black;
+  list-style-type: none;
+  
+  text-align: center;
+  border-radius: 0cqmax;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+nav ul li a {
+  border: 2px black solid;
+  border-radius: 5px;
+  color: #d5d504;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.anime-section {
+  border-radius: 20px;
+  background-color: black;
+  color: #d5d504;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(238, 233, 233, 0.1);
+}
+.marlon {
+  color: #d5d504;
+  margin-left: 1300px;
+  margin-bottom: 50px;
+  width: 150px;
+  text-align: center;
+  position:relative;
+}
+.marlon a{
+  color: #d5d504;
+}
+
+footer {
+  border-radius: 20px;
+  background-color: black;
+  color: #d5d504;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+.container{
+  max-width: 1500px;
+  margin:auto;
+}
+
+
+.buttons a{
+
+  color: #d5d504;
+ 
+}
+
+.YO a{
+  float: right;
+}
+
+.cambio{
+  width: 1200px;
+  height: 800px;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+.contenedor {
+  text-align: center;
+  
+}
+.contenedor a{
+  color: #d5d504;
+}
+@media only screen and (max-width: 768px) {
+  
+}
